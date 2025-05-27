@@ -34,3 +34,17 @@ This tool is a step toward automating that cost control process.
 git clone https://github.com/iggisakhar/cloud-cost-optimizer.git
 cd cloud-cost-optimizer
 open index.html
+
+📈 Future Plans
+Connect to live AWS/Azure/GCP billing APIs
+
+Build a dashboard for visualization
+
+Add anomaly detection & alerts
+
+Deploy as a web app (SaaS-style MVP)
+
+📫 Contact
+GitHub: iggisakhar
+
+LinkedIn: https://www.linkedin.com/in/igor-sakhar
